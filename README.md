@@ -1,17 +1,16 @@
 ---
 languages: html
-tags: elements, headings, typography, images, links, beginner, kids
+tags: elements, headings, typography, images, links, kids
+type: lab
+level: 1
 ---
 
 # HTML Album Cover
 
-This challenege asks the you recreate the album cover shown in the MOCKUP.jpg image by writing the appropriate HTML neccesary into the index.html page. Use SOURCE.md to copy and paste in all filler text needed.
+Pharrel isn't quite happy, he needs some help coding his album cover for his hit song "Happy". His dev chops aren't quite as skilled as ours, so he's hired us to take care of business.
 
-## Tasks
+Pharrel did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. You can't view a jpg in terminal, so make sure you open it with a photo viewer like Preview.
 
-1. fork this repository.
-2. clone your fork locally.
-3. cd in the local repo you just cloned.
-4. open the MOCKUP.jpg image and take a look at it.
-5. Use the comments in the index.html file to create the elements neccesary to recreate the album cover shown in MOCKUP.jpg. Also use SOURCE.md to copy and paste all neccesary filler text.
-6. open up index.html in the browser as well for a side by side comparison with MOCKUP.jpg as you work.
+He also provided us with the text for the album, and all the legal mumbo-jumbo to give credit where credit is due. You can find that text in `SOURCE.md`. Each line of text in this file corresponds to a line you'll write in index.html.
+
+So to get to work, write your code in `index.html`. You'll want to have that file open in both Sublime Text (to make changes to the HTML) and the browser (to check and see if your changes worked). You'll want to use the comments found in that file to help you determine which HTML tags to use.
