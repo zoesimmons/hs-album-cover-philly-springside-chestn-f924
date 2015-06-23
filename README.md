@@ -12,4 +12,4 @@ Pharrel did provide us with some specs for the design of the album, found in `MO
 Pharrel also provided us with the text for the album and all the legal mumbo-jumbo to give credit where credit is due. You can find that text in `SOURCE.md`. Each line of text in this file corresponds to a line you'll write in `index.html`.
 
 ### Get To Werk
-Write your code in `index.html`. Keep that file open in both Sublime Text (to make changes to the HTML) and the browser (to see if your changes worked). Use the comments found in that file to help you determine which HTML tags to use.
+Write your code in `index.html`. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). Use the comments found in that file to help you determine which HTML tags to use.
