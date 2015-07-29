@@ -1,9 +1,4 @@
----
-languages: html
-tags: elements, headings, typography, images, links, kids
-type: lab
-level: 1
----
+
 ### HTML Album Cover
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" align="right" hspace="10"> Pharrel isn't quite happy, he needs some help coding the album cover for his hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired you to take care of business.
 
