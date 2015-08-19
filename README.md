@@ -15,9 +15,15 @@ Pharrel also provided us with the text for the album and all the legal mumbo-jum
 Each line of text in this file corresponds to a note in `index.html` that will indicate where you'll need to add this information. It will be up to you to pick which HTML tags to use! (Hint: Revisit `Lesson: HTML Tags` if you're not sure which tags to use or how to write them.)
 
 
+
 ### Get To Werk
 
 You'll want to click `Open in Nitrous` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `How To: Open A Lab`.
 Use the comments found in that file to help you determine which HTML tags to use.
 
+### Top Tip
+
+Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory.
+
+### Shutting Down
 Don't forget to shut down your server at the end of this lab by hitting `control` + `c`. If you don't shut down your server, you won't be able to use terminal again, or start the server again for another lab.
