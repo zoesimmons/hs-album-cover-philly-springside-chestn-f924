@@ -1,16 +1,16 @@
 # HTML Album Cover
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" align="right" hspace="10"> 
 
-Pharre;l isn't quite happy, he needs some help coding the album cover for his hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired you to take care of business.
+Pharrell isn't quite happy, he needs some help coding the album cover for his hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired you to take care of business.
 
 ### MOCKUP.jpg
-Pharrell did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. In industry, frontend developers are typically given specs just like this from the product team and then asked to write the code to make a website look just like the spec. Today, you're the developers and Pharrel is the product team.
+Pharrell did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. In industry, frontend developers are typically given specs just like this from the product team and then asked to write the code to make a website look just like the spec. Today, you're the developers and Pharrell is the product team.
 
 You can view `MOCKUP.jpg` by using the file navigator in Nitrous and double clicking on the file name.
 
 ### SOURCE.md
 
-Pharrel also provided us with the text for the album and all the legal mumbo-jumbo to give credit where credit is due. You can find that text in `SOURCE.md`. Again, this is a typical industry standard workflow, where the developers are given copy for the site from the product team.
+Pharrell also provided us with the text for the album and all the legal mumbo-jumbo to give credit where credit is due. You can find that text in `SOURCE.md`. Again, this is a typical industry standard workflow, where the developers are given copy for the site from the product team.
 
 Each line of text in this file corresponds to a note in `index.html` that will indicate where you'll need to add this information. It will be up to you to pick which HTML tags to use! (Hint: Revisit `Lesson: HTML Tags` if you're not sure which tags to use or how to write them.)
 
