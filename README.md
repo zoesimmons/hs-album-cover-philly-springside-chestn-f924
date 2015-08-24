@@ -1,10 +1,10 @@
 # HTML Album Cover
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" align="right" hspace="10"> 
 
-Pharrel isn't quite happy, he needs some help coding the album cover for his hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired you to take care of business.
+Pharre;l isn't quite happy, he needs some help coding the album cover for his hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired you to take care of business.
 
 ### MOCKUP.jpg
-Pharrel did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. In industry, frontend developers are typically given specs just like this from the product team and then asked to write the code to make a website look just like the spec. Today, you're the developers and Pharrel is the product team.
+Pharrell did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. In industry, frontend developers are typically given specs just like this from the product team and then asked to write the code to make a website look just like the spec. Today, you're the developers and Pharrel is the product team.
 
 You can view `MOCKUP.jpg` by using the file navigator in Nitrous and double clicking on the file name.
 
