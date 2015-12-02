@@ -30,3 +30,5 @@ Images can be tricky. Take a look back at the the lesson from last week `Lesson:
 
 ### Shutting Down
 Don't forget to shut down your server at the end of this lab by hitting `control` + `c`. If you don't shut down your server, you won't be able to use terminal again, or start the server again for another lab.
+
+<a href='https://learn.co/lessons/hs-album-cover' data-visibility='hidden'>View this lesson on Learn.co</a>
